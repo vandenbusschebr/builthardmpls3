@@ -17,7 +17,7 @@
         <div class="col s12 m12 l4 align-center ">
             <img id="img" class="maxSize responsive-img z-depth-1" src="http://i.imgur.com/ymObq6y.jpg" > </div>
         <div class="col s12 m12 l4 bigImgText">
-        <div id="description" class="bigImgText"></div>
+        <div id="description" class="bigImgText flow-text"></div>
     </div>
     <div class="col s12 m12 l2"></div>
     </div>
