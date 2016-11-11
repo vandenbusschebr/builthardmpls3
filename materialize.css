@@ -4255,7 +4255,8 @@ html {
 
 @media only screen and (min-width: 0) {
   html {
-    font-size: 14px;
+    font-size: 16px;
+      font-weight: bold;
   }
 }
 
@@ -4343,7 +4344,7 @@ small {
 @media only screen and (min-width: 360px) and (max-width: 800px) {
   .flow-text {
     font-size: 1.2rem;
-      font-weight: bold;
+      
   }
 }
 
@@ -4468,13 +4469,14 @@ small {
 @media only screen and (min-width: 960px) {
   .flow-text {
     font-size: 1.68rem;
-      font-weight:bold;
+      
   }
 }
 
 @media only screen and (max-width: 360px) {
   .flow-text {
     font-size: 1.2rem;
+      
   }
 }
 
